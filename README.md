@@ -1,2 +1,2 @@
 # pyqtNqt-examples
-Some old python and qt projects
+Some old pyqt and qt projects done by me in past.
